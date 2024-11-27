@@ -1,7 +1,7 @@
 import { Suspense } from 'react'
-import LoginForm from '@/components/LoginForm'
-import RegisterForm from '@/components/RegisterForm'
-import Dashboard from '@/components/Dashboard'
+import LoginForm from 'src/components/LoginForm'
+import RegisterForm from 'src/components/RegisterForm'
+import Dashboard from 'src/components/Dashboard'
 
 export default function Home() {
   return (
