@@ -26,4 +26,3 @@ export async function connectToDatabase() {
   const db = client.db()
   return { client, db }
 }
-
